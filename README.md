@@ -1,1 +1,1 @@
-Practical implementation of inheritance, with integration og virtual function.
+Practical implementation of inheritance, with integration of virtual function.
